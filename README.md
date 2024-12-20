@@ -11,16 +11,8 @@ Veri seti özellikleri:
 
 JPEGImages klasöründe 50 farklı hayvan sınıfı bulunmaktadır.
 Proje kapsamında yalnızca aşağıdaki 10 sınıf kullanılmıştır:
-Collie
-Dolphin
-Elephant
-Fox
-Moose
-Rabbit
-Sheep
-Squirrel
-Giant Panda
-Polar Bear
+
+Collie, Dolphin, Elephant, Fox, Moose, Rabbit, Sheep, Squirrel, Giant Panda, Polar Bear.
 Her sınıftan yalnızca ilk 650 resim alınarak dengeli bir veri kümesi oluşturulmuştur. Görseller, modele uygun olacak şekilde boyutlandırılmış ve normalize edilmiştir.
 
 ## Proje Adımları
